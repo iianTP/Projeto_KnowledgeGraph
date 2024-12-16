@@ -1,0 +1,30 @@
+Rock originou Heavy Metal, Punk, Indie Rock e Pop Rock
+Heavy Metal originou Metalcore, Thrash Metal, Prog Metal, Alt Metal e Nu Metal
+Punk originou o Hardcore
+Hardcore originou Metalcore
+O Pop originou Pop Rock e EDM
+Hip Hop originou Nu Metal
+Blues originou R&B, Jazz e Rock
+Bring Me The Horizon, Spiritbox e Knocked Loose tocam Metalcore
+Sleep Token e Bring Me The Horizon tocam Alt Metal
+Knocked Loose e Converge tocam Hardcore
+Imagine Dragons e Fall Out Boy tocam Pop Rock
+Taylor Swift, Aurora, Ariana Grande e Billie Eilish tocam Pop
+Korn e Linkin Park tocam Nu Metal
+Queens of The Stone Age e o Arctic Monkeys tocam Indie Rock
+Eminem, 2Pac e Kendrick Lamar tocam Hip Hop
+Metallica e Slayer tocam Thrash Metal
+Queen e The Beatles tocam Rock
+Skrillex, Charli xcx, Burial e Deadmau5 tocam EDM
+Green Day e Blink-182 tocam Punk
+Opeth e Tool tocam Prog Metal
+Chuck Berry e B.B. King tocam Blues e Rock
+Frank Sinatra e Ella Fitzgerald tocam Jazz
+Maria, Carlos, Paulo e Sara escutam Taylor Swift, The Beatles e Green Day
+Mario, Jonas, Amanda e Vitoria escutam Linkin Park, Queens of The Stone Age e Tool
+Mario e Jonas escutam Korn, Spiritbox e Sleep Token
+Carlos e Paulo escutam Skrillex
+Maria, Amanda e Carlos escutam Frank Sinatra e Chuck Berry
+Vitoria, Mario e Maria seguem Amanda
+Jonas e Maria seguem Mario
+Carlos e Paulo seguem Sara e Maria
